@@ -79,3 +79,7 @@ Publisher = new Publisher(Context.Instance,
   renderer: PublisherVideo,
   capturer: Capturer);
 ```
+
+## EMGU CV Licence
+
+Please read the [Emgu Cv Licence](http://www.emgu.com/wiki/index.php/Emgu_TF_License)
