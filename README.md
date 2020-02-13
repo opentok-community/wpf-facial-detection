@@ -82,4 +82,4 @@ Publisher = new Publisher(Context.Instance,
 
 ## EMGU CV Licence
 
-Please read the [Emgu Cv Licence](http://www.emgu.com/wiki/index.php/Emgu_TF_License)
+Please read the [Emgu Cv Licence](http://www.emgu.com/wiki/index.php/Emgu_TF_License) They have a dual licence system for Open Source vs Commercial Closed Source.
